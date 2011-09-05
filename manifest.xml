@@ -1,0 +1,14 @@
+<package>
+  <description brief="srv_msgs">
+
+     Common messages not provided by ROS used by several packages.
+
+  </description>
+  <author>Joan Pau Beltran</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/srv_msgs</url>
+
+</package>
+
+
