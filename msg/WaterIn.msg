@@ -4,4 +4,4 @@
 
 Header header
 
-int32 pressure
+int32 humidity
