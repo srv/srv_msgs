@@ -2,4 +2,4 @@
 # The units and offset may be retrieved from the motor board.
 
 Header header
-int32 waterin
+int32 humidity
